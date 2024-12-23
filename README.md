@@ -7,17 +7,17 @@ Flash Bitcoin Transaction is a bitcoindevil tool for sending flash transactions 
 
 -Support all types of btc address
 
--Send up to 50 BTC in a single transaction
+-Send up to 5 BTC in a single transaction
 
 -Support all wallet : Binance Trustwalelt Exodus CEX and DEX
 
 -Transaction confirmation: 6+
 
--Transactions per day: Unlimited
+-Transactions per day: 5btc to 10btc
 
 -Number of wallet-to-wallet transactions: Unlimited
 
--Maximum duration of transaction on the blockchain: 998 days
+-Maximum duration of transaction on the blockchain: 120 days
 
 -Minimum hashrate power : 100.000 TH/S
 
