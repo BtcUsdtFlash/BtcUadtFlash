@@ -1,9 +1,9 @@
-# Fake Bitcoin Transaction
+# Flash Bitcoin Transaction
 
 Flash Bitcoin Transaction is a bitcoindevil tool for sending flash transactions on the blockchain network.
 
 
-# Bitcoin fake transaction Features :
+# Bitcoin flash transaction Features :
 
 -Support all types of btc address
 
