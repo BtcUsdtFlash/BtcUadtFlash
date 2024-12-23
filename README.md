@@ -9,7 +9,7 @@ Flash Bitcoin Transaction is a bitcoindevil tool for sending flash transactions 
 
 -Send up to 50 BTC in a single transaction
 
--Support all wallet : CEX and DEX
+-Support all wallet : Binance Trustwalelt Exodus CEX and DEX
 
 -Transaction confirmation: 6+
 
@@ -22,8 +22,6 @@ Flash Bitcoin Transaction is a bitcoindevil tool for sending flash transactions 
 -Minimum hashrate power : 100.000 TH/S
 
 -Maximum hashrate power : Unlimited
-
-# Demo and Contacts
 
 
 transaction id : https://www.blockchain.com/explorer/transactions/btc/0f55ef6d59406111afc93b168497ed7f64abd11ce0ab1015c988dcde833d63f4
