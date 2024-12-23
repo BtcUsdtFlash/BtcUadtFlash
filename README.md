@@ -7,7 +7,7 @@ Flash Bitcoin Transaction is a bitcoindevil tool for sending flash transactions 
 
 -Support all types of btc address
 
--Send up to 100 BTC in a single transaction
+-Send up to 50 BTC in a single transaction
 
 -Support all wallet : CEX and DEX
 
@@ -25,12 +25,10 @@ Flash Bitcoin Transaction is a bitcoindevil tool for sending flash transactions 
 
 # Demo and Contacts
 
-Demo : https://youtu.be/WpviQj8Y_0E
 
 transaction id : https://www.blockchain.com/explorer/transactions/btc/0f55ef6d59406111afc93b168497ed7f64abd11ce0ab1015c988dcde833d63f4
 
-buy now : bitcoin-devil.com
+Buy From Here
+Telegram : @BtcFlashSeller
 
-Telegram : @crypt0dk
-
-Mail : crypt0dk@proton.me
+Mail : btcusdtflash@proton.me
